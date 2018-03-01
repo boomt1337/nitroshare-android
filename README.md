@@ -1,7 +1,70 @@
 ## NitroShare for Android (K translation)
-
+(this description is short but stupid)
 THIS IS KOREAN TRANSLATION! THE PENCIL STRIKES BACK
 
 status: currently in progress...
 
 engrish: coming never
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+part 5 never
